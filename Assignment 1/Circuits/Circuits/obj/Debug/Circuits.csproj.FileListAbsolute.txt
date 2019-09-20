@@ -1,0 +1,29 @@
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\bin\Debug\Circuits.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\bin\Debug\Circuits.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\Circuits.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\oslo.scms.waikato.ac.nz\home\telphick\Desktop\Circuits\Circuits\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.csprojAssemblyReference.cache
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.exe
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\bin\Debug\Circuits.exe
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Sajith Dhambagolla\Documents\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+D:\COMPX102\Assignment 1\Circuits\Circuits\bin\Debug\Circuits.exe.config
+D:\COMPX102\Assignment 1\Circuits\Circuits\bin\Debug\Circuits.exe
+D:\COMPX102\Assignment 1\Circuits\Circuits\bin\Debug\Circuits.pdb
+D:\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.csprojResolveAssemblyReference.cache
+D:\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+D:\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+D:\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.Cache
+D:\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+D:\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.exe
+D:\COMPX102\Assignment 1\Circuits\Circuits\obj\Debug\Circuits.pdb
